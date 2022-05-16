@@ -1,0 +1,22 @@
+h1 {color: brown; text-align: center} 
+.Horoskops {color: blue;}
+.humors {color: blueviolet;}
+.Galvenais {
+    background-image: url("https://image.freepik.com/free-vector/bad-weather-city-funny-flat-composition-with-people-blown-off-their-feet-by-storm_1284-53820.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.Galvenais h1 {
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+.Galvenais p {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    color: #966844;
+}
+body {
+    background-color: #3b6a6e;
+}
